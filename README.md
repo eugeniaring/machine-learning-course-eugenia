@@ -2,7 +2,7 @@
 
 Eugenia Anello: eugenia.anello@gmail.com
 
-| Argomento         | Slide       | Notebook    |
-| ------------- | ------------- | ------------- |
-| Basi di Python e NumPy  |  |  |
-| Pandas  |   |   |
+|Numero Lezione| Argomento         | Slide       | Notebook    |
+|| ------------- | ------------- | ------------- |
+|1| Basi di Python e NumPy  |  |  |
+|2| Pandas  |   |   |
