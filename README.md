@@ -2,7 +2,7 @@
 
 Eugenia Anello: eugenia.anello@gmail.com
 
-|Numero Lezione| Argomento         | Slide       | Notebook    |
-|| ------------- | ------------- | ------------- |
-|1| Basi di Python e NumPy  |  |  |
+|Lezione | Argomento         | Slide       |Notebook    |
+| ------------- | ------------- | ------------- | ------------- |
+|1| Basi di Python e NumPy  | [:pencil2:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/slides/lezione1_FAV_ML.pdf) | [:cat:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/lezione1_basipython_numpy.ipynb) |
 |2| Pandas  |   |   |
