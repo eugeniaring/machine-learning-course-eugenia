@@ -1,4 +1,4 @@
-# machine-learning-course-eugenia
+# Machine Learning Course FAV
 
 Eugenia Anello: eugenia.anello@gmail.com
 
