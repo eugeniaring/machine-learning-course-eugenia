@@ -11,4 +11,4 @@ Eugenia Anello: eugenia.anello@gmail.com
 |5| Bagging e Boosting  |  [:pencil2:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/slides/5_bagging_boosting.pdf)  |  [:cat:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/code/lezione_5_bagging_boosting.ipynb)   |
 |6| Clustering  | [:pencil2:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/slides/6_clustering.pdf)  | [:cat:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/code/lezione6_clustering.ipynb)  |
 |7| Dimensionality Reduction   | [:pencil2:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/slides/7_dim_red.pdf)  | [:cat:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/code/7_dim_red.ipynb)  |
-|8| Tecniche di Pre-processing  |   |   |
+|8| Tecniche di Pre-processing  | [:pencil2:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/slides/8_preprocessing.pdf)  | [:cat:](https://github.com/eugeniaring/machine-learning-course-eugenia/blob/main/code/8_preprocessing.ipynb)  |
